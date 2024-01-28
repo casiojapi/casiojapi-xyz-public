@@ -5,7 +5,52 @@
     <link>https://casiojapi.xyz/</link>
     <description>Recent content on casiojapi website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://casiojapi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Sep 2023 19:40:56 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>resume</title>
+      <link>https://casiojapi.xyz/cv-3/</link>
+      <pubDate>Sun, 24 Sep 2023 19:40:56 -0300</pubDate>
+      
+      <guid>https://casiojapi.xyz/cv-3/</guid>
+      <description>relevant experience Rootstock core developer | nov 2022 - now job and company&amp;rsquo;s general description
+info 1 about my job info 2 about my job info 3 about my job info 4 about my job | nov 2022 - now job and company&amp;rsquo;s general description
+info 1 about my job info 2 about my job info 3 about my job info 4 about my job side-projects webmaster at dh | nov 2022 - now job&amp;rsquo;s general description</description>
+      <content>&lt;h2 id=&#34;relevant-experience&#34;&gt;relevant experience&lt;/h2&gt;
+&lt;h3 id=&#34;rootstock-core-developer--nov-2022---now&#34;&gt;Rootstock core developer | nov 2022 - now&lt;/h3&gt;
+&lt;p&gt;job and company&amp;rsquo;s general description&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;info 1 about my job&lt;/li&gt;
+&lt;li&gt;info 2 about my job&lt;/li&gt;
+&lt;li&gt;info 3 about my job&lt;/li&gt;
+&lt;li&gt;info 4 about my job&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-nov-2022---now&#34;&gt;| nov 2022 - now&lt;/h3&gt;
+&lt;p&gt;job and company&amp;rsquo;s general description&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;info 1 about my job&lt;/li&gt;
+&lt;li&gt;info 2 about my job&lt;/li&gt;
+&lt;li&gt;info 3 about my job&lt;/li&gt;
+&lt;li&gt;info 4 about my job&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;side-projects&#34;&gt;side-projects&lt;/h2&gt;
+&lt;h3 id=&#34;webmaster-at-dh--nov-2022---now&#34;&gt;webmaster at dh | nov 2022 - now&lt;/h3&gt;
+&lt;p&gt;job&amp;rsquo;s general description&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;info 1 about my job&lt;/li&gt;
+&lt;li&gt;info 2 about my job&lt;/li&gt;
+&lt;li&gt;info 3 about my job&lt;/li&gt;
+&lt;li&gt;info 4 about my job&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;education&lt;/h2&gt;
+&lt;h3 id=&#34;hmmm&#34;&gt;hmmm&lt;/h3&gt;
+&lt;p&gt;hmmmm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hmm?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>Image Gallery</title>
       <link>https://casiojapi.xyz/foto/</link>
@@ -124,6 +169,157 @@ ok bumper - a free fall game that lets you press space to generate a random vect
       <guid>https://casiojapi.xyz/donate/</guid>
       <description>donate me </description>
       <content>&lt;h1 id=&#34;donate-me&#34;&gt;donate me&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>casiojapi cv</title>
+      <link>https://casiojapi.xyz/cv-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiojapi.xyz/cv-4/</guid>
+      <description>\vspace{-2em}
+casiojapi@proton.me github.com/casiojapi casiojapi.xyz buenos aires Work Experience \vspace{-1em}
+Rootstock (Nov 2022&amp;ndash;Present) Core Developer in the team responsible for the implementation of the Rootstock node. Focused on feature development, maintaining EVM compatibility, bug fixing and code review for master branch merges. Technologies used: Java, Gradle, TypeScript, Go (extensive use of Geth codebase), Hardhat, Foundry, RocksDB. |
+| BBVA (Aug 2021&amp;ndash;Nov 2022) | Backend Developer for credit card payment processing APIs and digital wallet (MODO) integration.</description>
+      <content>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;\vspace{-2em}&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:casiojapi@proton.me&#34;&gt;casiojapi@proton.me&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/casiojapi&#34;&gt;github.com/casiojapi&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://casiojapi,xyz&#34;&gt;casiojapi.xyz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;buenos aires&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;\vspace{-1em}&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Rootstock&lt;/strong&gt; (Nov 2022&amp;ndash;Present)&lt;/td&gt;
+&lt;td&gt;Core Developer in the team responsible for the implementation of the Rootstock node.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Focused on feature development, maintaining EVM compatibility, bug fixing and code review for master branch merges.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Technologies used: Java, Gradle, TypeScript, Go (extensive use of Geth codebase), Hardhat, Foundry, RocksDB. |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;BBVA&lt;/strong&gt; (Aug 2021&amp;ndash;Nov 2022) | Backend Developer for credit card payment processing APIs and digital wallet (MODO) integration. Key responsibilities included API development for bank-wallet integration ensuring high security standards, and developing features for credit and debit card transactions including subscriptions, discounts, and recurring payments. |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;Freelance&lt;/strong&gt; (2021&amp;ndash;Present) | Blockchain Consultant providing advice and development services on blockchain tools, integrations, security, and privacy for small businesses and individuals. |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;FIUBA&lt;/strong&gt; (2019&amp;ndash;2022) | Teaching Assistant for &amp;ldquo;Algorithms and Data structures&amp;rdquo; in Electronic Engineering. |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;Freelance&lt;/strong&gt; (2019&amp;ndash;2022) | Web Developer for small businesses and individuals, specializing in custom solutions. |&lt;/p&gt;
+&lt;h3 id=&#34;rootstock-labs-core-blockchain-developer-nov-2022----now&#34;&gt;Rootstock Labs, Core Blockchain Developer (nov 2022 &amp;ndash; now)&lt;/h3&gt;
+&lt;p&gt;As a core team member at Rootstock, my role involves developing features, ensuring Ethereum compatibility, optimizing blockchain performance, fixing bugs, and overseeing code integration into the main client implementation. Interesting projects I&amp;rsquo;ve worked on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Snapshot Sync&lt;/strong&gt;: Implemented a new synchronization mode in collaboration with the research team. This involved using different networking structures, parallel execution, and validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Armadillo&lt;/strong&gt;: Focused on securing Rootstock&amp;rsquo;s merge-mining process, involving calls to Bitcoin nodes to check block data and ensure RSK blocks are tagged to the Bitcoin chain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bbva-bank-backend-developer-aug-2021----nov-2022&#34;&gt;BBVA Bank, Backend Developer (aug 2021 &amp;ndash; nov 2022)&lt;/h3&gt;
+&lt;p&gt;Key responsibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Digital Wallet Integration&lt;/strong&gt;: Developed APIs for BBVA&amp;rsquo;s integration with a native payment wallet, emphasizing robust security features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credit Card Payment APIs&lt;/strong&gt;: Created APIs for various credit and debit card functionalities, including subscriptions, discounts, and recurring payments, for both internal bank services and home banking applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;freelance-blockchain-consultant-2021----present&#34;&gt;Freelance Blockchain Consultant (2021 &amp;ndash; present)&lt;/h3&gt;
+&lt;p&gt;Provide consultancy and project execution for small businesses and individuals in integrating blockchain technology into their operations.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;fiuba-computer-engineering&#34;&gt;FIUBA, Computer Engineering&lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://casiojapi.xyz/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiojapi.xyz/cv/</guid>
+      <description>Rootstock Labs: Core Developer Nov 2022 - Present
+Responsible for the implementation of the Rootstock node. Focused on feature development, maintaining EVM compatibility, bug fixing, and code review for master branch merges. Interesting projects I&amp;rsquo;ve worked on:
+Snapshot Sync: Implemented a new and faster synchronization mode in collaboration with the research team. This involved using different networking structures, parallel execution, and validation. Armadillo: Focused on securing Rootstock&amp;rsquo;s merge-mining process, involving calls to Bitcoin nodes to check block data and ensure RSK blocks are tagged to the Bitcoin chain.</description>
+      <content>&lt;h1 id=&#34;rootstock-labs-core-developer&#34;&gt;Rootstock Labs: &lt;strong&gt;Core Developer&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Nov 2022 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsible for the implementation of the Rootstock node.&lt;/li&gt;
+&lt;li&gt;Focused on feature development, maintaining EVM compatibility, bug fixing, and code review for master branch merges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interesting projects I&amp;rsquo;ve worked on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Snapshot Sync&lt;/em&gt;: Implemented a new and faster synchronization mode in collaboration with the research team. This involved using different networking structures, parallel execution, and validation.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Armadillo&lt;/em&gt;: Focused on securing Rootstock&amp;rsquo;s merge-mining process, involving calls to Bitcoin nodes to check block data and ensure RSK blocks are tagged to the Bitcoin chain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies used: Java, Gradle, TypeScript, Go (extensive use of Geth codebase), Hardhat, Foundry, RocksDB.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;bbva-backend-developer&#34;&gt;BBVA: &lt;strong&gt;Backend Developer&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Aug 2021 - Nov 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed backend solutions for credit card payment processing APIs and digital wallet integration.&lt;/li&gt;
+&lt;li&gt;Led API development for bank-wallet integration, ensuring high security standards.&lt;/li&gt;
+&lt;li&gt;Created features for credit/debit card transactions including subscriptions and recurring payments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;freelance-blockchain-consultant&#34;&gt;Freelance: &lt;strong&gt;Blockchain Consultant&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;2021 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing blockchain consultancy and development services.&lt;/li&gt;
+&lt;li&gt;Focus on tools, integrations, security, and privacy for small businesses and individuals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;fiuba-teaching-assistant&#34;&gt;FIUBA: &lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;2019 - 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted assignments corrections and provided classroom teaching in Algorithms and Data Structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;freelance-web-developer&#34;&gt;Freelance: &lt;strong&gt;Web Developer&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;2019 - 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specialized in developing custom web solutions for small businesses and individuals.&lt;/li&gt;
+&lt;li&gt;Utilized a variety of technologies to create tailored and efficient online platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h2 id=&#34;fiuba&#34;&gt;FIUBA&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Electronics and Software Engineering (Dropped Out)&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;2019 - 2022&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;
+&lt;p&gt;Blockchain Developer with experience in developing blockchain solutions. Experience working open source projects, in Java, TypeScript, and Go, with a strong background in core development and a commitment to staying at the forefront of blockchain technology.&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockchain Development:&lt;/strong&gt; Expertise in blockchain technologies, focusing on feature development, EVM compatibility, and performance optimization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Integration:&lt;/strong&gt; Skilled in backend development, specifically in secure and efficient API integration for financial applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational Leadership:&lt;/strong&gt; Experienced educator and mentor, adept in teaching Algorithms and Data Structures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Skills:&lt;/strong&gt; Java, TypeScript, Go, Hardhat, Foundry, RocksDB.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt; Security, Problem Solving, Communication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;contact&#34;&gt;contact&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:casiojapi@proton.me&#34;&gt;casiojapi@proton.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/casiojapi&#34;&gt;github.com/casiojapi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&#34;https://casiojapi.xyz&#34;&gt;casiojapi.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Buenos Aires&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
